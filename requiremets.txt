@@ -1,0 +1,7 @@
+colorama
+requests
+tqdm
+cowsay
+pyfiglet
+impacket
+self

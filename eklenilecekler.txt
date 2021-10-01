@@ -1,0 +1,4 @@
+create files => yenileniyo
+checkfiles => yenileniyo
+mainfile => eklenildi
+make => yapılıyor
